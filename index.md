@@ -14,6 +14,8 @@ tagline:
 DoorKeeper上の [Gemba Pattern Community](http://gembapatterncommunity.doorkeeper.jp/) にご参加ください。
 
 ## 現場のパターンの登録の仕方
-ただいま準備中です。
 
+リポジトリを[agilepatterns](https://github.com/gembapatterns/agilepatterns)に作成しました。
+こちらにIPAから提供されている[アジャイル型開発におけるプラクティス活用事例調査 ガイド編](http://www.ipa.go.jp/sec/softwareengineering/reports/20130319.html)のWord版を登録しました。
+こちらのWord版を、Markdown形式のテキストにして更新して行く予定です。
 
